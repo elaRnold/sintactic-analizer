@@ -1,0 +1,2 @@
+Error | Linea: 2 syntax error
+Error | Linea: 4 syntax error
